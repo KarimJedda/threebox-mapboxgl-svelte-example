@@ -9,3 +9,6 @@ npm install
 
 npm run dev
 
+Hint:
+
+set the format to 'cjs' instead of 'iffe' for more stability - i guess. 
